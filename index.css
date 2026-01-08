@@ -4,7 +4,7 @@ h1 {
 
 .price {
   font-size: 20px;
-  color: black;
+  color: lightgreen;
 }
 
 article {
@@ -18,8 +18,9 @@ article {
 
 button {
   background-color: orange;
+  cursor: pointer;
 }
 
 button:hover {
-  background-color: blue;
+  background-color: gray;
 }
